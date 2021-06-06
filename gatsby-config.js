@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Charlotte Bergeron`,
     author: {
       name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `I am a college student trying to interact more with the real world (meaning the world that is happening outside of school). I am mainly here to think out loud and hopefully get some feedback.
+
+      Let me know your impressions and let’s start a discussion.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `BergeronCharlo4`,
     },
   },
   plugins: [
