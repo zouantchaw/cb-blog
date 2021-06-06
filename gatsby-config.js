@@ -3,7 +3,7 @@ module.exports = {
     title: `Charlotte Bergeron`,
     author: {
       name: `Kyle Mathews`,
-      summary: `I am a college student trying to interact more with the real world (meaning the world that is happening outside of school). I am mainly here to think out loud and hopefully get some feedback.
+      summary: `Welcome, I'm a college student trying to interact more with the real world (meaning the world that is happening outside of school). I am mainly here to think out loud and hopefully get some feedback.
 
       Let me know your impressions and let’s start a discussion on`,
     },
